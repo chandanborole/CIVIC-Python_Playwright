@@ -1,2 +1,10 @@
-# CIVIC-Python_Playwright
-CIVIC-Python_Playwright
+#---------------------------------------------------------#
+
+Readme.TXT
+
+#---------------------------------------------------------#
+
+Homepage Testcases
+1. test_tc_00001 - To verify - OPENLOCAL LOGO availability
+
+#---------------------------------------------------------#
